@@ -6,7 +6,7 @@
   - very few samples.
   - the success parameter is vauge, not showing which parameters affects it.
   - very few features with so little information.
- ## Idea:
+ ## Steps to conquer them:
   - cleaning and keeping only the informative features.
   - scrapping the web for more info about the movies.
   - using feature engineering to easily identify the patterns.
