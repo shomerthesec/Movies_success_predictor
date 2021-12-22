@@ -86,3 +86,6 @@ test_data = test_df.drop(genre_cols, axis=1).join(
 # %%
 test_data.iloc[:, 4:].to_csv('data/test_budget_numerical.csv')
 train_data.iloc[:, 4:].to_csv('data/train_budget_numerical.csv')
+
+# %%
+boxcox_gross.lambdas_
