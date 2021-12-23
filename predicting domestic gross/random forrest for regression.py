@@ -19,7 +19,7 @@ provided_data = pd.read_csv(
     'S:/Movie_success_predictor/data/train_budget_numerical.csv', index_col=0)
 
 
-# %% let's try to use knn
+# %% 
 df_train, df_test = train_test_split(provided_data,
                                      test_size=0.20,
                                      random_state=0,
