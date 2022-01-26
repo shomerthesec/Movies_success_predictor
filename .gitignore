@@ -9,3 +9,4 @@ kaggle_data/links_small.csv
 kaggle_data/links.csv
 kaggle_data/keywords.csv
 kaggle_data/credits.csv
+kaggle_data/credits_without_outliers_with_directors.csv
