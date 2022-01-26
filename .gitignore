@@ -2,3 +2,10 @@ data
 new_material/
 *.iml
 *.xml
+kaggle_data/ratings.csv
+kaggle_data/ratings_small.csv
+kaggle_data/movies_metadata.csv
+kaggle_data/links_small.csv
+kaggle_data/links.csv
+kaggle_data/keywords.csv
+kaggle_data/credits.csv
